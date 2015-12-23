@@ -1,6 +1,7 @@
 {
     "name": "milax/gravatar",
 	"license": "ISC",
+	"description" : "Small class for fetching user gravatar",
     "authors": [
         {
             "name": "Eugene Min",
