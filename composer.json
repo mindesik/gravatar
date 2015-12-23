@@ -1,6 +1,6 @@
 {
     "name": "milax/gravatar",
-    "description": "",
+	"license": "ISC",
     "authors": [
         {
             "name": "Eugene Min",
