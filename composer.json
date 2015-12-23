@@ -1,0 +1,16 @@
+{
+    "name": "milax/gravatar",
+    "description": "",
+    "authors": [
+        {
+            "name": "Eugene Min",
+            "email": "e.min@milax.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Milax\\": "src/"
+        }
+    },
+    "require": {}
+}
