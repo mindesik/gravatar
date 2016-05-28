@@ -1,5 +1,5 @@
 {
-    "name": "milax/gravatar",
+    "name": "misterpaladin/gravatar",
 	"license": "ISC",
 	"description" : "Small class for fetching user gravatar",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Milax\\": "src/"
+            "MisterPaladin\\": "src/"
         }
     },
     "require": {}
