@@ -1,6 +1,6 @@
 {
     "name": "misterpaladin/gravatar",
-	"license": "ISC",
+	"license": "MIT",
 	"description" : "Small class for fetching user gravatar",
     "authors": [
         {
